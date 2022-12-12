@@ -1,0 +1,136 @@
+body{
+    background-color: black;
+}
+
+.color-white{
+    color: white;
+}
+
+.color-orange{
+    color: rgba(227, 184, 115, 1);
+}
+
+.shrift1{
+    font-family: Yeseva One;
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: -0.07em;
+    text-align: left;
+}
+
+.shrift2{
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.shrift3{
+    font-family: Yeseva One;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.opisanie{
+    margin: 34px 863px 42px 134px;
+    width: 442px;
+
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 190px 215px;
+    grid-template-rows:max-content;
+    margin: 42px 89px 0px 134px;
+}
+
+.grid-items{
+    margin: -10px 0px 20px 0px;
+}
+
+.progect{
+    width: 161px;
+    margin: 0px 0px -30px 134px;
+}
+
+.nav{
+    margin: 107px 190px 53px 626px;
+    display: grid;
+    grid-template-columns: 260px 170px 300px;
+    grid-template-rows: max-content;
+}
+
+.image1{
+    position: relative;
+    top: 0px;
+    right: 0px;
+    bottom: 130px;
+    left: 626px;
+}
+
+.image2{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 130px;
+    left: 626px;
+}
+
+.image3{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 130px;
+    left: 626px;
+}
+
+.slider-foto{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    position: relative;
+}
+
+.Rectangle6{
+    margin: 6px 619px 0px 0px;
+    width: 210px;
+}
+
+.Rectangle1{
+    padding: 0px 0px 0px 295px;
+    width: 92px;
+}
+
+.right{
+    margin: 0px 0px 0px 0px;
+    color: white;
+}
+
+.left{
+    margin: 0px 0px 0px 0px;
+    color: white;
+}
+
+.dots{
+    display: grid;
+    grid-template-columns: 25px 25px 25px;
+}
+
+.nav2{
+    display: grid;
+    grid-template-columns: 150px 100px 70px;
+    grid-template-rows:max-content;
+    margin: 0px 0px 0px 100px;
+    width: 300px;
+    align-items: center;
+}
+
+button{
+    border: 0cm;
+    background-color: transparent;
+}
